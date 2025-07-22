@@ -75,8 +75,10 @@ Develop predictive models to:
 
 • Debt to Income Ratio > 20 == High Risk
 
+
   
  ## 🏁 Model Results
+
 
 | Model | ROC-AUC | Accuracy | Recall (Defaulters) | Notes |
 |-------|--------:|---------:|--------------------:|-------|
