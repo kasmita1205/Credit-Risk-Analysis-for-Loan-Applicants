@@ -54,10 +54,10 @@ Develop predictive models to:
   
 ## 📊 Key EDA Findings
 
-[!EDA Results]<img width="1006" height="691" alt="Screenshot 2025-07-21 232203" src="https://github.com/user-attachments/assets/7529295f-dbc3-4dcb-9468-cb4ff55e5335" />
-[!EDA]<img width="997" height="556" alt="Screenshot 2025-07-21 232222" src="https://github.com/user-attachments/assets/3d085e7a-87ee-48a9-86d3-00cb454b6f09" />
-[!EDA]<img width="1090" height="811" alt="Screenshot 2025-07-21 232258" src="https://github.com/user-attachments/assets/5cbf5628-536b-4fde-884b-9d18babfdbfb" />
-[!Confusion Matrix]<img width="1083" height="787" alt="Screenshot 2025-07-21 232318" src="https://github.com/user-attachments/assets/d2093c9c-2a8a-4622-a64c-0baeb0e7d04b" />
+<img width="1006" height="691" alt="Screenshot 2025-07-21 232203" src="https://github.com/user-attachments/assets/7529295f-dbc3-4dcb-9468-cb4ff55e5335" />
+<img width="997" height="556" alt="Screenshot 2025-07-21 232222" src="https://github.com/user-attachments/assets/3d085e7a-87ee-48a9-86d3-00cb454b6f09" />
+<img width="1090" height="811" alt="Screenshot 2025-07-21 232258" src="https://github.com/user-attachments/assets/5cbf5628-536b-4fde-884b-9d18babfdbfb" />
+<img width="1083" height="787" alt="Screenshot 2025-07-21 232318" src="https://github.com/user-attachments/assets/d2093c9c-2a8a-4622-a64c-0baeb0e7d04b" />
 
 
 
@@ -89,9 +89,10 @@ Develop predictive models to:
 
 ## Loan Default Risk Predictor 
 **Use 'streamlit run Loan_Default_Risk_Predictor.py' command to run the app and look at predictions**
+
 **Sample Output**
 
-[!Prediction Sample Output from App]<img width="1907" height="982" alt="Screenshot 2025-07-21 232007" src="https://github.com/user-attachments/assets/a355bea3-a061-4a84-bc30-d821076f1a43" />
+<img width="1907" height="982" alt="Screenshot 2025-07-21 232007" src="https://github.com/user-attachments/assets/a355bea3-a061-4a84-bc30-d821076f1a43" />
 
 
 
